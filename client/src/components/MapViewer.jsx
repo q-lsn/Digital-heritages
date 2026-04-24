@@ -9,10 +9,6 @@ const markerIcon = new L.Icon({
   iconAnchor: [12, 41],
 });
 
-const southWest = L.latLng(8.0, 102.0);
-const northEast = L.latLng(24.0, 110.0);
-const maxBounds = L.latLngBounds(southWest, northEast);
-
 function FocusSelected({ selected }) {
   const map = useMap();
 
@@ -30,12 +26,11 @@ export default function MapViewer({ heritages, selected, onSelect }) {
     <div className="absolute inset-0 w-screen h-screen">
       <MapContainer
         center={[16.0, 106.0]}
-        zoom={6}
-        minZoom={5}
+        zoom={4}          // Đã giảm zoom mặc định để góc nhìn ban đầu rộng hơn
+        minZoom={2}       // Đã giảm minZoom xuống mức 2 để thu nhỏ nhìn được toàn cầu
         maxZoom={18}
-        maxBounds={maxBounds}
-        maxBoundsViscosity={1}
         className="w-full h-full z-0"
+        // Đã gỡ bỏ giới hạn maxBounds và maxBoundsViscosity ở đây
       >
         <TileLayer
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
