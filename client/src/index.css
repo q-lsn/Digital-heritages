@@ -1,0 +1,29 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+:root {
+  --milk-bg: #fdfbf7;
+  --beige-bg: #f5ebe0;
+  --coffee-text: #5c4033;
+  --brown-accent: #8b5a2b;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  background: var(--milk-bg);
+  color: var(--coffee-text);
+  font-family: "Inter", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+}

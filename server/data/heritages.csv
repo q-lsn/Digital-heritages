@@ -1,0 +1,35 @@
+id,name,category,province,latitude,longitude,image,description,model3d
+1,Chùa Vĩnh Tràng,chua_temple,Tiền Giang,10.3609,106.3599,https://images.unsplash.com/photo-1533105079780-92b9be482077,Ngôi chùa nổi tiếng với kiến trúc giao thoa Á Âu tại Mỹ Tho,3ba1b177678a42198c9bb5b277211a3d
+2,Nhà cổ Bình Thủy,di_tich_lich_su,Cần Thơ,10.0452,105.7478,https://images.unsplash.com/photo-1473186578172-c141e6798cf4,Ngôi nhà cổ hơn 100 năm mang phong cách Pháp độc đáo,/models/Aula.glb
+3,Chùa Dơi,chua_temple,Sóc Trăng,9.6037,105.9733,https://images.unsplash.com/photo-1524492449090-1f93c87b43f5,Chùa Khmer nổi tiếng có đàn dơi cư trú tự nhiên,/models/Aula.glb
+4,Chùa Chén Kiểu,chua_temple,Sóc Trăng,9.5008,105.9968,https://images.unsplash.com/photo-1479839672679-a46483c0e7c8,Chùa có kiến trúc khảm chén sứ đặc sắc vùng Nam Bộ,/models/Aula.glb
+5,Khu lưu niệm Nguyễn Đình Chiểu,di_tich_lich_su,Bến Tre,10.2392,106.3756,https://images.unsplash.com/photo-1469474968028-56623f02e42e,Di tích tưởng nhớ danh nhân văn hóa lớn của dân tộc,/models/Aula.glb
+6,Nhà Công tử Bạc Liêu,di_tich_lich_su,Bạc Liêu,9.2862,105.7218,https://images.unsplash.com/photo-1518002054494-3a6f94352e9d,Biểu tượng lịch sử đô thị và văn hóa Nam Bộ đầu thế kỷ 20,/models/Aula.glb
+7,Chùa Xiêm Cán,chua_temple,Bạc Liêu,9.2425,105.6797,https://images.unsplash.com/photo-1512813195386-6cf811ad3542,Ngôi chùa Khmer lớn với nghệ thuật điêu khắc tinh xảo,/models/Aula.glb
+8,Mũi Cà Mau,di_tich_lich_su,Cà Mau,8.6353,104.7228,https://images.unsplash.com/photo-1501785888041-af3ef285b470,Điểm cực Nam thiêng liêng của Tổ quốc Việt Nam,/models/Aula.glb
+9,Đền thờ Bác Hồ Cà Mau,di_tich_lich_su,Cà Mau,9.1795,105.1524,https://images.unsplash.com/photo-1512453979798-5ea266f8880c,Công trình văn hóa giáo dục truyền thống yêu nước,/models/Aula.glb
+10,Chùa Phật Lớn,chua_temple,Cần Thơ,10.0286,105.7814,https://images.unsplash.com/photo-1504593811423-6dd665756598,Điểm tâm linh nổi bật với tượng Phật quy mô lớn,/models/Aula.glb
+11,Bảo tàng Cần Thơ,di_tich_lich_su,Cần Thơ,10.0342,105.7839,https://images.unsplash.com/photo-1452378174528-3090a4bba7b2,Nơi lưu giữ hiện vật lịch sử và văn hóa ĐBSCL,/models/Aula.glb
+12,Đình Bình Thủy,di_tich_lich_su,Cần Thơ,10.0478,105.7562,https://images.unsplash.com/photo-1469474968028-56623f02e42e,Đình cổ tiêu biểu phản ánh đời sống tín ngưỡng Nam Bộ,/models/Aula.glb
+13,Chùa Hang,chua_temple,Trà Vinh,9.9518,106.3407,https://images.unsplash.com/photo-1494548162494-384bba4ab999,Ngôi chùa Khmer nổi bật với cổng dạng hang đá độc đáo,/models/Aula.glb
+14,Ao Bà Om,di_tich_lich_su,Trà Vinh,9.9336,106.3362,https://images.unsplash.com/photo-1433832597046-4f10e10ac764,Danh thắng văn hóa gắn với cộng đồng Khmer Nam Bộ,/models/Aula.glb
+15,Chùa Âng,chua_temple,Trà Vinh,9.9368,106.3398,https://images.unsplash.com/photo-1479839672679-a46483c0e7c8,Một trong những ngôi chùa Khmer cổ nhất vùng Tây Nam Bộ,/models/Aula.glb
+16,Lăng Thoại Ngọc Hầu,di_tich_lich_su,An Giang,10.5031,105.1217,https://images.unsplash.com/photo-1441974231531-c6227db76b6e,Di tích ghi dấu công lao mở cõi của Thoại Ngọc Hầu,/models/Aula.glb
+17,Miếu Bà Chúa Xứ,di_tich_lich_su,An Giang,10.5054,105.1264,https://images.unsplash.com/photo-1524492449090-1f93c87b43f5,Trung tâm tín ngưỡng lớn thu hút du khách hành hương,/models/Aula.glb
+18,Chùa Tây An,chua_temple,An Giang,10.5072,105.1282,https://images.unsplash.com/photo-1533105079780-92b9be482077,Kiến trúc giao thoa Ấn Hồi Việt rất đặc trưng,/models/Aula.glb
+19,Nhà tù Phú Quốc,di_tich_lich_su,Kiên Giang,10.0308,104.0156,https://images.unsplash.com/photo-1528909514045-2fa4ac7a08ba,Chứng tích lịch sử chiến tranh và tinh thần kiên cường,/models/Aula.glb
+20,Đền Nguyễn Trung Trực,di_tich_lich_su,Kiên Giang,10.0125,105.0807,https://images.unsplash.com/photo-1465101046530-73398c7f28ca,Di tích tưởng niệm vị anh hùng dân tộc Nguyễn Trung Trực,/models/Aula.glb
+21,Chùa Tam Bảo,chua_temple,Kiên Giang,10.0133,105.0824,https://images.unsplash.com/photo-1479839672679-a46483c0e7c8,Ngôi chùa cổ gắn liền với phong trào yêu nước,/models/Aula.glb
+22,Lăng Mạc Cửu,di_tich_lich_su,Kiên Giang,10.3767,104.4857,https://images.unsplash.com/photo-1469474968028-56623f02e42e,Công trình tưởng niệm người có công khai phá Hà Tiên,/models/Aula.glb
+23,Nhà lưu niệm Cao Văn Lầu,di_tich_lich_su,Bạc Liêu,9.2869,105.7264,https://images.unsplash.com/photo-1494548162494-384bba4ab999,Nơi tôn vinh tác giả Dạ cổ hoài lang lừng danh,/models/Aula.glb
+24,Đình Tân Hưng,di_tich_lich_su,Long An,10.5341,106.4129,https://images.unsplash.com/photo-1518002054494-3a6f94352e9d,Đình làng cổ tiêu biểu cho văn hóa cộng đồng Nam Bộ,/models/Aula.glb
+25,Khu di tích Gò Tháp,di_tich_lich_su,Đồng Tháp,10.5938,105.5936,https://images.unsplash.com/photo-1501785888041-af3ef285b470,Quần thể khảo cổ và tín ngưỡng đặc biệt của miền Tây,/models/Aula.glb
+26,Chùa Kiến An Cung,chua_temple,Đồng Tháp,10.4606,105.6338,https://images.unsplash.com/photo-1533105079780-92b9be482077,Ngôi chùa người Hoa có kiến trúc nghệ thuật ấn tượng,/models/Aula.glb
+27,Làng hoa Sa Đéc,di_tich_lich_su,Đồng Tháp,10.3087,105.7625,https://images.unsplash.com/photo-1441974231531-c6227db76b6e,Không gian làng nghề truyền thống gắn với văn hóa bản địa,/models/Aula.glb
+28,Chùa Ông Cần Thơ,chua_temple,Cần Thơ,10.0347,105.7863,https://images.unsplash.com/photo-1479839672679-a46483c0e7c8,Ngôi chùa Hoa cổ kính nằm gần bến Ninh Kiều,/models/Aula.glb
+29,Đình thần Thới Bình,di_tich_lich_su,Cà Mau,9.3578,105.1932,https://images.unsplash.com/photo-1512453979798-5ea266f8880c,Đình cổ phản ánh đời sống tín ngưỡng địa phương,/models/Aula.glb
+30,Chùa Pothisomron,chua_temple,Sóc Trăng,9.5998,105.9779,https://images.unsplash.com/photo-1524492449090-1f93c87b43f5,Chùa Khmer có nghệ thuật trang trí và điêu khắc tinh tế,/models/Aula.glb
+31,Phố cổ Hội An,di_tich_lich_su,Quảng Nam,15.8783,108.3275,https://images.unsplash.com/photo-1559592413-7ce4f0a0487f,Di sản văn hóa thế giới được UNESCO công nhận với kiến trúc đô thị cổ được bảo tồn gần như nguyên vẹn.,/models/PhocoHoiAn.obj
+32,Cổng Ngọ Môn (Huế),di_tich_lich_su,Thừa Thiên Huế,16.4678,107.5786,https://images.unsplash.com/photo-1542104523-2cb039dcf461,"Cổng chính phía nam của Hoàng thành Huế, là biểu tượng kiến trúc đặc sắc của triều Nguyễn.",/models/NgoMonHue.obj
+33,Điện Thái Hòa,di_tich_lich_su,Thừa Thiên Huế,16.4695,107.5794,https://static.vinwonders.com/production/dien-thai-hoa-banner.jpeg,"Cung điện nằm trong khu vực Đại Nội của Kinh thành Huế, từng là nơi đăng quang của các vị vua triều Nguyễn.",/models/DienThaiHoa.obj
+34,Chùa Cầu Hội An,chua_temple,Quảng Nam,15.877,108.326,https://images.unsplash.com/photo-1600867809630-f92e071e6268,"Ngôi chùa mái che độc đáo bắc ngang qua con lạch nhỏ trong khu phố cổ, là biểu tượng vượt thời gian của Hội An.",/models/ChuaCauHoiAn.obj
