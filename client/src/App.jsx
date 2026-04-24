@@ -12,7 +12,7 @@ export default function App() {
   const [show3D, setShow3D] = useState(false);
 
   useEffect(() => {
-    fetch("http://localhost:4000/api/heritages")
+    fetch("https://digital-heritages.onrender.com/api/heritages")
       .then((res) => res.json())
       .then((res) => setHeritages(res.data || []))
       .catch(() => setHeritages([]));

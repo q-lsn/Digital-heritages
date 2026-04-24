@@ -33,7 +33,7 @@ export default function ChatBot() {
 
     try {
       // Gọi API xuống Backend Express
-      const response = await fetch("http://localhost:4000/api/chat", {
+      const response = await fetch("https://digital-heritages.onrender.com/api/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ 
